@@ -1,3 +1,3 @@
 Hello %date% : %time%
 
-"I am in Feature Branch"
+eacho "I am in Feature Branch"
